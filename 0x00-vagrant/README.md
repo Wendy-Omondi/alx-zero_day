@@ -1,0 +1,1 @@
+This is a mandatory vagrant project to get farmiliar vagrant, virtual box and ubuntu.
